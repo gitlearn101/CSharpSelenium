@@ -1,4 +1,4 @@
-﻿// Perform e2e operation on a dummy ecomm portal
+﻿// Perform e2e operation on a dummy ecomm portal [from remote repo]
 
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
