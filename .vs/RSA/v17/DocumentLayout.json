@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8F98A87A-F3F6-4C9C-B366-738850D7D5BA}|LearnCSharpSelenium\\LearnCSharpSelenium.csproj|c:\\1new2\\2_study\\udemy_study\\udemy_selenium\\csharpselenium_rsa\\rsa\\learncsharpselenium\\e2etest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F98A87A-F3F6-4C9C-B366-738850D7D5BA}|LearnCSharpSelenium\\LearnCSharpSelenium.csproj|solutionrelative:learncsharpselenium\\e2etest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F98A87A-F3F6-4C9C-B366-738850D7D5BA}|LearnCSharpSelenium\\LearnCSharpSelenium.csproj|c:\\1new2\\2_study\\udemy_study\\udemy_selenium\\csharpselenium_rsa\\rsa\\learncsharpselenium\\locators_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F98A87A-F3F6-4C9C-B366-738850D7D5BA}|LearnCSharpSelenium\\LearnCSharpSelenium.csproj|solutionrelative:learncsharpselenium\\locators_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Locators_2.cs",
-              "DocumentMoniker": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\LearnCSharpSelenium\\Locators_2.cs",
-              "RelativeDocumentMoniker": "LearnCSharpSelenium\\Locators_2.cs",
-              "ToolTip": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\LearnCSharpSelenium\\Locators_2.cs",
-              "RelativeToolTip": "LearnCSharpSelenium\\Locators_2.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAYwDYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T15:42:09.81Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
@@ -45,14 +36,10 @@
               "RelativeDocumentMoniker": "LearnCSharpSelenium\\E2ETest.cs",
               "ToolTip": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\LearnCSharpSelenium\\E2ETest.cs",
               "RelativeToolTip": "LearnCSharpSelenium\\E2ETest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-26T15:30:23.25Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
