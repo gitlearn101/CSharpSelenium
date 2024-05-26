@@ -106,3 +106,4 @@ C:\1New2\2_STUDY\Udemy_Study\Udemy_Selenium\CSharpSelenium_RSA\RSA\LearnCSharpSe
 C:\1New2\2_STUDY\Udemy_Study\Udemy_Selenium\CSharpSelenium_RSA\RSA\LearnCSharpSelenium\bin\Debug\net8.0\ICSharpCode.SharpZipLib.dll
 C:\1New2\2_STUDY\Udemy_Study\Udemy_Selenium\CSharpSelenium_RSA\RSA\LearnCSharpSelenium\bin\Debug\net8.0\WebDriverManager.dll
 C:\1New2\2_STUDY\Udemy_Study\Udemy_Selenium\CSharpSelenium_RSA\RSA\LearnCSharpSelenium\bin\Debug\net8.0\SeleniumExtras.WaitHelpers.dll
+C:\1New2\2_STUDY\Udemy_Study\Udemy_Selenium\CSharpSelenium_RSA\RSA\LearnCSharpSelenium\obj\Debug\net8.0\LearnCSharpSelenium.sourcelink.json

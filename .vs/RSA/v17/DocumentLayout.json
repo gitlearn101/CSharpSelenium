@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F98A87A-F3F6-4C9C-B366-738850D7D5BA}|LearnCSharpSelenium\\LearnCSharpSelenium.csproj|c:\\1new2\\2_study\\udemy_study\\udemy_selenium\\csharpselenium_rsa\\rsa\\learncsharpselenium\\functionaltest_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F98A87A-F3F6-4C9C-B366-738850D7D5BA}|LearnCSharpSelenium\\LearnCSharpSelenium.csproj|solutionrelative:learncsharpselenium\\functionaltest_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F98A87A-F3F6-4C9C-B366-738850D7D5BA}|LearnCSharpSelenium\\LearnCSharpSelenium.csproj|c:\\1new2\\2_study\\udemy_study\\udemy_selenium\\csharpselenium_rsa\\rsa\\learncsharpselenium\\e2etest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F98A87A-F3F6-4C9C-B366-738850D7D5BA}|LearnCSharpSelenium\\LearnCSharpSelenium.csproj|solutionrelative:learncsharpselenium\\e2etest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F98A87A-F3F6-4C9C-B366-738850D7D5BA}|LearnCSharpSelenium\\LearnCSharpSelenium.csproj|c:\\1new2\\2_study\\udemy_study\\udemy_selenium\\csharpselenium_rsa\\rsa\\learncsharpselenium\\locators_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F98A87A-F3F6-4C9C-B366-738850D7D5BA}|LearnCSharpSelenium\\LearnCSharpSelenium.csproj|solutionrelative:learncsharpselenium\\locators_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,16 +26,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FunctionalTest_3.cs",
-              "DocumentMoniker": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\LearnCSharpSelenium\\FunctionalTest_3.cs",
-              "RelativeDocumentMoniker": "LearnCSharpSelenium\\FunctionalTest_3.cs",
-              "ToolTip": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\LearnCSharpSelenium\\FunctionalTest_3.cs",
-              "RelativeToolTip": "LearnCSharpSelenium\\FunctionalTest_3.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAAwEoAAAAOAAAA",
+              "DocumentIndex": 1,
+              "Title": "Locators_2.cs",
+              "DocumentMoniker": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\LearnCSharpSelenium\\Locators_2.cs",
+              "RelativeDocumentMoniker": "LearnCSharpSelenium\\Locators_2.cs",
+              "ToolTip": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\LearnCSharpSelenium\\Locators_2.cs",
+              "RelativeToolTip": "LearnCSharpSelenium\\Locators_2.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T09:56:50.395Z",
+              "WhenOpened": "2024-05-26T15:42:09.81Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "E2ETest.cs",
+              "DocumentMoniker": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\LearnCSharpSelenium\\E2ETest.cs",
+              "RelativeDocumentMoniker": "LearnCSharpSelenium\\E2ETest.cs",
+              "ToolTip": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\LearnCSharpSelenium\\E2ETest.cs",
+              "RelativeToolTip": "LearnCSharpSelenium\\E2ETest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:30:23.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
