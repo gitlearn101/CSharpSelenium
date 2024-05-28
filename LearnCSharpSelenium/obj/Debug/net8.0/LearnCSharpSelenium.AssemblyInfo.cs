@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LearnCSharpSelenium")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+088c3ab65dcb339a0acaf94a9ab2536a26ebd03c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af60ccd2cc23cb701f6d87e48d70982d207da3f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("LearnCSharpSelenium")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LearnCSharpSelenium")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

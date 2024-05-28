@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F98A87A-F3F6-4C9C-B366-738850D7D5BA}|LearnCSharpSelenium\\LearnCSharpSelenium.csproj|c:\\1new2\\2_study\\udemy_study\\udemy_selenium\\csharpselenium_rsa\\rsa\\learncsharpselenium\\alertactionautosuggestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F98A87A-F3F6-4C9C-B366-738850D7D5BA}|LearnCSharpSelenium\\LearnCSharpSelenium.csproj|solutionrelative:learncsharpselenium\\alertactionautosuggestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F98A87A-F3F6-4C9C-B366-738850D7D5BA}|LearnCSharpSelenium\\LearnCSharpSelenium.csproj|c:\\1new2\\2_study\\udemy_study\\udemy_selenium\\csharpselenium_rsa\\rsa\\learncsharpselenium\\e2etest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F98A87A-F3F6-4C9C-B366-738850D7D5BA}|LearnCSharpSelenium\\LearnCSharpSelenium.csproj|solutionrelative:learncsharpselenium\\e2etest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "E2ETest.cs",
+              "DocumentMoniker": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\LearnCSharpSelenium\\E2ETest.cs",
+              "RelativeDocumentMoniker": "LearnCSharpSelenium\\E2ETest.cs",
+              "ToolTip": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\LearnCSharpSelenium\\E2ETest.cs",
+              "RelativeToolTip": "LearnCSharpSelenium\\E2ETest.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwCgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T03:09:00.414Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -31,19 +44,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AlertActionAutosuggestion.cs",
-              "DocumentMoniker": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\LearnCSharpSelenium\\AlertActionAutosuggestion.cs",
-              "RelativeDocumentMoniker": "LearnCSharpSelenium\\AlertActionAutosuggestion.cs",
-              "ToolTip": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\LearnCSharpSelenium\\AlertActionAutosuggestion.cs",
-              "RelativeToolTip": "LearnCSharpSelenium\\AlertActionAutosuggestion.cs",
-              "ViewState": "AQIAAH0AAAAAAAAAAAAAAIwAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T05:19:28.847Z",
-              "EditorCaption": ""
             }
           ]
         }

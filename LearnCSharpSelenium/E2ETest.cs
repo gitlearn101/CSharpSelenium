@@ -33,9 +33,12 @@ namespace LearnCSharpSelenium
             driver.Manage().Window.Maximize();
 
             driver.Url = "https://rahulshettyacademy.com/loginpagePractise/";
+        }
 
-
-
+        [TearDown]
+        public void StopBrowser()
+        {
+            driver.Quit();
         }
 
         [Test]
@@ -43,6 +46,13 @@ namespace LearnCSharpSelenium
         {
             // expected product to be added to cart
             String[] expectedProducts = ["iphone X", "Blackberry"];
+
+            // actual product list from cart screen
+            String[] actualProducts = new String[expectedProducts.Length];
+
+            // delivery location
+            String deliveryCountry = "India";
+            String deliveryCode = "IND";
 
             // login with valid credential
             driver.FindElement(By.Id("username")).SendKeys("rahulshettyacademy");
@@ -75,6 +85,61 @@ namespace LearnCSharpSelenium
                 }
 
             }
+            
+            // Click on 'checkout' btn
+            driver.FindElement(By.PartialLinkText("Checkout")).Click() ;
+
+            // capture the products from cart screen
+            IList<IWebElement> checkoutProducts = driver.FindElements(By.CssSelector("h4 a"));
+
+            // retrieve text 
+            for(int i = 0; i < checkoutProducts.Count; i++)
+            {
+                actualProducts[i] = checkoutProducts[i].Text;
+            }
+
+            // Assert two arrays
+            Assert.That(actualProducts, Is.EqualTo(expectedProducts));
+
+            // click on final checkout btn in cart screen
+            driver.FindElement(By.CssSelector("button.btn-success")).Click();
+
+            // select delivery location using auto-suggestion
+            driver.FindElement(By.Id("country")).SendKeys(deliveryCode);
+            Thread.Sleep(5000);
+
+            WebDriverWait waitSuggestion = new WebDriverWait(driver, TimeSpan.FromSeconds(15));
+            waitSuggestion.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.LinkText("India")));
+
+            // click on relevant country from suggestion box
+            driver.FindElement(By.LinkText(deliveryCountry)).Click();
+
+
+            /*
+            IList<IWebElement> suggestionList = driver.FindElements(By.XPath("//div[@class='suggestions']/ul"));
+
+            foreach(IWebElement suggestion in suggestionList)
+            {
+                if (suggestion.Equals(deliveryCountry))
+                {
+                    suggestion.Click();
+                }
+            }
+            */
+
+            // select T&C checkbox
+            Thread.Sleep(2000);
+            driver.FindElement(By.CssSelector("label[for*='checkbox2']")).Click();
+
+            // Click 'Purchase' btn
+            
+            driver.FindElement(By.CssSelector("input.btn-lg")).Click();
+
+            // validation the success message
+            String successMsg = driver.FindElement(By.XPath("//div[@class='alert alert-success alert-dismissible']")).Text;
+            TestContext.Progress.WriteLine("successMsg >> "+successMsg);
+            StringAssert.Contains("Success", successMsg);
+
 
         }
 
