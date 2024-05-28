@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpFundas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74fef2dc8e05da5dd4ab5fe291184680ec4ca5e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b9dfec22ef0088cfdd9896b25d8fe8799990df8")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpFundas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpFundas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
