@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB7859BF-781B-4D38-A71C-BDDC39E20368}|CSharpSelFramework\\CSharpSelFramework.csproj|c:\\1new2\\2_study\\udemy_study\\udemy_selenium\\csharpselenium_rsa\\rsa\\csharpselframework\\tests\\sortwebtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB7859BF-781B-4D38-A71C-BDDC39E20368}|CSharpSelFramework\\CSharpSelFramework.csproj|solutionrelative:csharpselframework\\tests\\sortwebtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F98A87A-F3F6-4C9C-B366-738850D7D5BA}|LearnCSharpSelenium\\LearnCSharpSelenium.csproj|c:\\1new2\\2_study\\udemy_study\\udemy_selenium\\csharpselenium_rsa\\rsa\\learncsharpselenium\\sortwebtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F98A87A-F3F6-4C9C-B366-738850D7D5BA}|LearnCSharpSelenium\\LearnCSharpSelenium.csproj|solutionrelative:learncsharpselenium\\sortwebtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB7859BF-781B-4D38-A71C-BDDC39E20368}|CSharpSelFramework\\CSharpSelFramework.csproj|c:\\1new2\\2_study\\udemy_study\\udemy_selenium\\csharpselenium_rsa\\rsa\\csharpselframework\\tests\\endtoendtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB7859BF-781B-4D38-A71C-BDDC39E20368}|CSharpSelFramework\\CSharpSelFramework.csproj|solutionrelative:csharpselframework\\tests\\endtoendtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CB7859BF-781B-4D38-A71C-BDDC39E20368}|CSharpSelFramework\\CSharpSelFramework.csproj|c:\\1new2\\2_study\\udemy_study\\udemy_selenium\\csharpselenium_rsa\\rsa\\csharpselframework\\utilities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB7859BF-781B-4D38-A71C-BDDC39E20368}|CSharpSelFramework\\CSharpSelFramework.csproj|solutionrelative:csharpselframework\\utilities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F98A87A-F3F6-4C9C-B366-738850D7D5BA}|LearnCSharpSelenium\\LearnCSharpSelenium.csproj|c:\\1new2\\2_study\\udemy_study\\udemy_selenium\\csharpselenium_rsa\\rsa\\learncsharpselenium\\e2etest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F98A87A-F3F6-4C9C-B366-738850D7D5BA}|LearnCSharpSelenium\\LearnCSharpSelenium.csproj|solutionrelative:learncsharpselenium\\e2etest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB7859BF-781B-4D38-A71C-BDDC39E20368}|CSharpSelFramework\\CSharpSelFramework.csproj|c:\\1new2\\2_study\\udemy_study\\udemy_selenium\\csharpselenium_rsa\\rsa\\csharpselframework\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CB7859BF-781B-4D38-A71C-BDDC39E20368}|CSharpSelFramework\\CSharpSelFramework.csproj|solutionrelative:csharpselframework\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7859BF-781B-4D38-A71C-BDDC39E20368}|CSharpSelFramework\\CSharpSelFramework.csproj|c:\\1new2\\2_study\\udemy_study\\udemy_selenium\\csharpselenium_rsa\\rsa\\csharpselframework\\csharpselframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB7859BF-781B-4D38-A71C-BDDC39E20368}|CSharpSelFramework\\CSharpSelFramework.csproj|solutionrelative:csharpselframework\\csharpselframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7859BF-781B-4D38-A71C-BDDC39E20368}|CSharpSelFramework\\CSharpSelFramework.csproj|c:\\1new2\\2_study\\udemy_study\\udemy_selenium\\csharpselenium_rsa\\rsa\\csharpselframework\\tests\\endtoendtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB7859BF-781B-4D38-A71C-BDDC39E20368}|CSharpSelFramework\\CSharpSelFramework.csproj|solutionrelative:csharpselframework\\tests\\endtoendtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,47 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SortWebtable.cs",
-              "DocumentMoniker": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\LearnCSharpSelenium\\SortWebtable.cs",
-              "RelativeDocumentMoniker": "LearnCSharpSelenium\\SortWebtable.cs",
-              "ToolTip": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\LearnCSharpSelenium\\SortWebtable.cs",
-              "RelativeToolTip": "LearnCSharpSelenium\\SortWebtable.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T15:37:12.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SortWebtable.cs",
-              "DocumentMoniker": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\CSharpSelFramework\\tests\\SortWebtable.cs",
-              "RelativeDocumentMoniker": "CSharpSelFramework\\tests\\SortWebtable.cs",
-              "ToolTip": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\CSharpSelFramework\\tests\\SortWebtable.cs",
-              "RelativeToolTip": "CSharpSelFramework\\tests\\SortWebtable.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBQAAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T15:38:11.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EndToEndTest.cs",
-              "DocumentMoniker": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\CSharpSelFramework\\tests\\EndToEndTest.cs",
-              "RelativeDocumentMoniker": "CSharpSelFramework\\tests\\EndToEndTest.cs",
-              "ToolTip": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\CSharpSelFramework\\tests\\EndToEndTest.cs",
-              "RelativeToolTip": "CSharpSelFramework\\tests\\EndToEndTest.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAQwAoAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T14:04:02.555Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -89,28 +46,53 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CSharpSelFramework.csproj",
+              "DocumentMoniker": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\CSharpSelFramework\\CSharpSelFramework.csproj",
+              "RelativeDocumentMoniker": "CSharpSelFramework\\CSharpSelFramework.csproj",
+              "ToolTip": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\CSharpSelFramework\\CSharpSelFramework.csproj",
+              "RelativeToolTip": "CSharpSelFramework\\CSharpSelFramework.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-29T01:00:42.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\CSharpSelFramework\\App.config",
+              "RelativeDocumentMoniker": "CSharpSelFramework\\App.config",
+              "ToolTip": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\CSharpSelFramework\\App.config",
+              "RelativeToolTip": "CSharpSelFramework\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-29T00:48:35.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "EndToEndTest.cs",
+              "DocumentMoniker": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\CSharpSelFramework\\tests\\EndToEndTest.cs",
+              "RelativeDocumentMoniker": "CSharpSelFramework\\tests\\EndToEndTest.cs",
+              "ToolTip": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\CSharpSelFramework\\tests\\EndToEndTest.cs",
+              "RelativeToolTip": "CSharpSelFramework\\tests\\EndToEndTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:04:02.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Base.cs",
               "DocumentMoniker": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\CSharpSelFramework\\utilities\\Base.cs",
               "RelativeDocumentMoniker": "CSharpSelFramework\\utilities\\Base.cs",
               "ToolTip": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\CSharpSelFramework\\utilities\\Base.cs",
               "RelativeToolTip": "CSharpSelFramework\\utilities\\Base.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAUwCYAAAAJAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB4AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T14:01:39.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "E2ETest.cs",
-              "DocumentMoniker": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\LearnCSharpSelenium\\E2ETest.cs",
-              "RelativeDocumentMoniker": "LearnCSharpSelenium\\E2ETest.cs",
-              "ToolTip": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\LearnCSharpSelenium\\E2ETest.cs",
-              "RelativeToolTip": "LearnCSharpSelenium\\E2ETest.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAswCkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T03:09:00.414Z",
               "EditorCaption": ""
             }
           ]

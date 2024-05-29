@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BpIaiPbDrVX0cS9RooBwMo+608MQLgO2mLzP+pRlPj/GOMvSbjIAZfzzpdgbCROnxEaQhjpmy06Vye4JRh5u2Q==",
+  "dgSpecHash": "+HNk75RpVc9dmPsmlpoWqUbRToULqgxLq340sBabAGwV1MmEMHUTj3S2ejQmL5PIFDmN0PQV+rh93HgTmzuEsQ==",
   "success": true,
   "projectFilePath": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\CSharpSelFramework\\CSharpSelFramework.csproj",
   "expectedPackageFiles": [
@@ -22,8 +22,11 @@
     "C:\\Users\\ANAND\\.nuget\\packages\\selenium.support\\4.21.0\\selenium.support.4.21.0.nupkg.sha512",
     "C:\\Users\\ANAND\\.nuget\\packages\\selenium.webdriver\\4.21.0\\selenium.webdriver.4.21.0.nupkg.sha512",
     "C:\\Users\\ANAND\\.nuget\\packages\\sharpziplib\\1.4.2\\sharpziplib.1.4.2.nupkg.sha512",
+    "C:\\Users\\ANAND\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\ANAND\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
     "C:\\Users\\ANAND\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
     "C:\\Users\\ANAND\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\ANAND\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
     "C:\\Users\\ANAND\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
     "C:\\Users\\ANAND\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512",
     "C:\\Users\\ANAND\\.nuget\\packages\\webdrivermanager\\2.17.2\\webdrivermanager.2.17.2.nupkg.sha512"

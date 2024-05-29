@@ -77,6 +77,10 @@
               "target": "Package",
               "version": "[4.21.0, )"
             },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "WebDriverManager": {
               "target": "Package",
               "version": "[2.17.2, )"
