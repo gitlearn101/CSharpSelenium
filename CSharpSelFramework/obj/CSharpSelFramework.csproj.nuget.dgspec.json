@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\CSharpSelFramework\\CSharpSelFramework.csproj": {}
+    "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\CSharpSelFramework\\CsharpSelFramework.csproj": {}
   },
   "projects": {
-    "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\CSharpSelFramework\\CSharpSelFramework.csproj": {
+    "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\CSharpSelFramework\\CsharpSelFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\CSharpSelFramework\\CSharpSelFramework.csproj",
-        "projectName": "CSharpSelFramework",
-        "projectPath": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\CSharpSelFramework\\CSharpSelFramework.csproj",
+        "projectUniqueName": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\CSharpSelFramework\\CsharpSelFramework.csproj",
+        "projectName": "CsharpSelFramework",
+        "projectPath": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\CSharpSelFramework\\CsharpSelFramework.csproj",
         "packagesPath": "C:\\Users\\ANAND\\.nuget\\packages\\",
         "outputPath": "C:\\1New2\\2_STUDY\\Udemy_Study\\Udemy_Selenium\\CSharpSelenium_RSA\\RSA\\CSharpSelFramework\\obj\\",
         "projectStyle": "PackageReference",

@@ -1,7 +1,7 @@
 ﻿// category test can be executed from VS cmd terminal
 
 // 1. Navigate the Project folder such as cd CsharpSelFramework
-// 2. dotnet test CsharpSelFramework.csproj --filter TestCategory=Regression --% -- TestRunParameters.Parameter(name=\"browser\", value=\"Chrome\")
+// 2. dotnet test CsharpSelFramework.csproj --filter TestCategory=Regression --% -- TestRunParameters.Parameter(name=\"browserName\", value=\"Chrome\")
 
 
 
