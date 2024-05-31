@@ -16,26 +16,26 @@ namespace LearnCSharpSelenium
         [TearDown]
         public void stopBrowser()
         {
-            driver.Quit();
+            driver.Value.Quit();
         }
 
         [Test]
         public void windowHandlers()
         {
             // click on the blinking text to open a new tab
-            driver.FindElement(By.ClassName("blinkingText")).Click();
+            driver.Value.FindElement(By.ClassName("blinkingText")).Click();
 
 
-            Assert.That(driver.WindowHandles.Count, Is.EqualTo(2));
+            Assert.That(driver.Value.WindowHandles.Count, Is.EqualTo(2));
 
-            String childWindow = driver.WindowHandles[1];
-            String parentWindow = driver.WindowHandles[0];
+            String childWindow = driver.Value.WindowHandles[1];
+            String parentWindow = driver.Value.WindowHandles[0];
 
             // transfer driver control to childWindow
-            driver.SwitchTo().Window(childWindow);
+            driver.Value.SwitchTo().Window(childWindow);
 
             // get text from childWindow to prove that control is now moved to childWindow
-            String textChildWindow = driver.FindElement(By.CssSelector(".red")).Text;
+            String textChildWindow = driver.Value.FindElement(By.CssSelector(".red")).Text;
             TestContext.Progress.WriteLine(textChildWindow);
 
             // capture the email from above text
@@ -50,13 +50,13 @@ namespace LearnCSharpSelenium
             // pass driver control back to parentWindow
 
             // method 1
-           driver.SwitchTo().Window(parentWindow);
+            driver.Value.SwitchTo().Window(parentWindow);
 
             // method 2
             //driver.SwitchTo().
 
             // input email from above lines into email textbox
-            driver.FindElement(By.Id("username")).SendKeys(email);
+            driver.Value.FindElement(By.Id("username")).SendKeys(email);
 
 
         }

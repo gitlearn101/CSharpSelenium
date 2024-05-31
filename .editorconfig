@@ -1,0 +1,10 @@
+﻿[*.cs]
+
+# CS8602: Dereference of a possibly null reference.
+dotnet_diagnostic.CS8602.severity = none
+
+# IDE0049: Simplify Names
+dotnet_diagnostic.IDE0049.severity = silent
+
+# IDE0049: Simplify Names
+dotnet_style_predefined_type_for_locals_parameters_members = true

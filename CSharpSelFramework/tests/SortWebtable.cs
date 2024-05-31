@@ -18,19 +18,19 @@ namespace LearnCSharpSelenium
         [Test]
         public void SortTable()
         {
-            driver.Url = "https://rahulshettyacademy.com/seleniumPractise/#/offers";
+            driver.Value.Url = "https://rahulshettyacademy.com/seleniumPractise/#/offers";
 
             ArrayList alA = new ArrayList();
             ArrayList alB = new ArrayList();
 
 
             // select '20' from pagesize dropdown
-            SelectElement pageSizeDropdown = new SelectElement(driver.FindElement(By.Id("page-menu")));
+            SelectElement pageSizeDropdown = new SelectElement(driver.Value.FindElement(By.Id("page-menu")));
             pageSizeDropdown.SelectByValue("20");
 
             // step 1 : consolidate all veg name in arraylist A
 
-            IList<IWebElement> vegProducts = driver.FindElements(By.XPath("//tr/td[1]"));
+            IList<IWebElement> vegProducts = driver.Value.FindElements(By.XPath("//tr/td[1]"));
 
             foreach (IWebElement vegProduct in vegProducts)
             {
@@ -49,14 +49,14 @@ namespace LearnCSharpSelenium
 
 
             // step 3 : click coln name 
-            driver.FindElement(By.CssSelector("th[aria-label*='fruit']")).Click();
+            driver.Value.FindElement(By.CssSelector("th[aria-label*='fruit']")).Click();
             //tip - regular exp using css >> th[aria-label*='fruit']
             //tip - regular exp using xpath >> //th[contains(@aria-label,'fruit')]
 
 
             // step 4 : Get all veg name into arraylist B
 
-            IList<IWebElement> SortedVegProducts = driver.FindElements(By.XPath("//tr/td[1]"));
+            IList<IWebElement> SortedVegProducts = driver.Value.FindElements(By.XPath("//tr/td[1]"));
 
             foreach (IWebElement vegProduct in SortedVegProducts)
             {

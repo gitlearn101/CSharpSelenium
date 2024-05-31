@@ -10,6 +10,28 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="AlertActionAutosuggestion.cs" />
+    <Compile Remove="E2ETest.cs" />
+    <Compile Remove="FunctionalTest_3.cs" />
+    <Compile Remove="Locators_2.cs" />
+    <Compile Remove="SeleniumFirst_1.cs" />
+    <Compile Remove="SortWebtable.cs" />
+    <Compile Remove="UnitTest1.cs" />
+    <Compile Remove="WindowHandlers.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="AlertActionAutosuggestion.cs" />
+    <None Include="E2ETest.cs" />
+    <None Include="FunctionalTest_3.cs" />
+    <None Include="Locators_2.cs" />
+    <None Include="SeleniumFirst_1.cs" />
+    <None Include="SortWebtable.cs" />
+    <None Include="UnitTest1.cs" />
+    <None Include="WindowHandlers.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="coverlet.collector" Version="6.0.0" />
     <PackageReference Include="DotNetSeleniumExtras.WaitHelpers" Version="3.11.0" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />

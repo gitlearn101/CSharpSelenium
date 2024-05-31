@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Compile Remove="ArrayDemo.cs" />
+    <Compile Remove="ArraylistDemo.cs" />
     <Compile Remove="ChildInheritance.cs" />
     <Compile Remove="ConstructorDemo.cs" />
     <Compile Remove="Demo2.cs" />
@@ -19,6 +20,7 @@
 
   <ItemGroup>
     <None Include="ArrayDemo.cs" />
+    <None Include="ArraylistDemo.cs" />
     <None Include="ChildInheritance.cs" />
     <None Include="ConstructorDemo.cs" />
     <None Include="Demo2.cs" />
